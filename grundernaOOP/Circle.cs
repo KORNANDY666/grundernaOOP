@@ -15,9 +15,9 @@ namespace grundernaOOP
 
 
         // creates a constructor to take the value of the radius
-        public Circle(int Radius)
+        public Circle(int radius)
         {
-          radius = Radius;
+          this.radius = radius;
            
         }
 
